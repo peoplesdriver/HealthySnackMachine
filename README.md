@@ -1,6 +1,6 @@
 # Healthy Snack Machine
 
-Requirements
+<h1>Requirements</h1>
 
 TenThousandsSteps.org have recently embarked on releasing a new range of healthy low fat/salt and sugar snack machines in universities across London. You have recently started an apprenticeship with them to develop the software for this new range snack machines. The company pays £0.45 for each snack. This software will provide both the user interface for the user and business logic for dispensing a snack to the user. The current snacks and prices on offer are:
     • Crisps - £0.75
