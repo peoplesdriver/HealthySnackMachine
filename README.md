@@ -2,9 +2,9 @@
 <!-- HTML CODE-->
 
 <div>
-	<h1>Healty Snack Machine</h1>
+	<h1>Healthy Snack Machine</h1>
 	<h2>Requirements</h2>
-	<p>TenThousandsSteps.org have recently embarked on releasing a new range of healthy low fat/salt and sugar snack machines in universities across London. You have recently started an apprenticeship with them to develop the software for this new range snack machines. The company pays £0.45 for each snack. This software will provide both the user interface for the user and business logic for dispensing a snack to the user.The current snacks and prices on offer are:</p><ul>
+	<p><b>TenThousandsSteps.org</b> have recently embarked on releasing a new range of healthy low fat/salt and sugar snack machines in universities across London. You have recently started an apprenticeship with them to develop the software for this new range snack machines. The company pays £0.45 for each snack. This software will provide both the user interface for the user and business logic for dispensing a snack to the user.The current snacks and prices on offer are:</p><ul>
 				<li>Crisps - £0.75</li>
 				<li>Mars Bar - £0.70</li>
 				<li>Coca Cola - £1.0</li>
