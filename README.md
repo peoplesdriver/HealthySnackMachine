@@ -15,7 +15,7 @@
 	<p>The user interface will be menu driven prompting the user to select a choice, quantity and subsequently to pay by inserting the money. The menu could look something like:</p>
 
 <h3>********** Healty Snack Machine **********</h3>
-<h5 class="ml-5">SNACK-------------PRICE-------------QTY</h5>
+<h4>SNACK-------------PRICE-------------QTY</h4>
 <ul>
 	<li>Crisps------------------------£0.75-----------------------10</li>
 	<li>Mars Bar--------------------£0.70-----------------------10</li>
